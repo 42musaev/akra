@@ -1,4 +1,4 @@
-Test task for a project
+Test task for a Arka
 
 How to run
 
